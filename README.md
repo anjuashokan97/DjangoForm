@@ -8,4 +8,14 @@ creating HTML forms for the data
 receiving and processing submitted forms and data from the client
 
 
+
+
+
+
 ![imagew](https://github.com/anjuashokan97/DjangoForm/assets/84384828/ab91311a-f9f7-490d-95b6-bac136dfded4)
+
+
+
+
+
+![Screenshot (1)](https://github.com/anjuashokan97/DjangoForm/assets/84384828/7238f67a-5bf7-4712-95c5-2cbcc864c806)
